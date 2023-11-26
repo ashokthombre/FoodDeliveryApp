@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "172941872177",
+    "firebase_url": "https://foodorderapp-69dd7-default-rtdb.firebaseio.com",
+    "project_id": "foodorderapp-69dd7",
+    "storage_bucket": "foodorderapp-69dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172941872177:android:15e0f55fc287eef8731910",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172941872177-fsrk99mtmqqjduhqfachipfps13jgr9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminfoodorderapp",
+            "certificate_hash": "11ede3c42c1111d0c20d2f21331fa18d4b8c5019"
+          }
+        },
+        {
+          "client_id": "172941872177-vqta9o1kk283ksptnht79h5a6q1ck37l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQpo4aK5R0HahKPD2AnzV0yHmn4Th7-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172941872177-vqta9o1kk283ksptnht79h5a6q1ck37l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172941872177:android:ee7443839f81455d731910",
+        "android_client_info": {
+          "package_name": "com.example.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172941872177-vqta9o1kk283ksptnht79h5a6q1ck37l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQpo4aK5R0HahKPD2AnzV0yHmn4Th7-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172941872177-vqta9o1kk283ksptnht79h5a6q1ck37l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
